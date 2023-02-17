@@ -1,0 +1,15 @@
+export default {
+    line_bg: require('../assets/images/line_bg.png'),
+    img1: require('../assets/images/img1.png'),
+    img2: require('../assets/images/img2.png'),
+    category1: require('../assets/images/category1.png'),
+    category2: require('../assets/images/category2.png'),
+    category3: require('../assets/images/category3.png'),
+    product1: require('../assets/images/product1.png'),
+    product2: require('../assets/images/product2.png'),
+    details: require('../assets/images/details.png'),
+    avatar1: require('../assets/images/avatar1.png'),
+    avatar2: require('../assets/images/avatar2.png'),
+    avatar3: require('../assets/images/avatar3.png'),
+    avatar4: require('../assets/images/avatar4.png'),
+}
